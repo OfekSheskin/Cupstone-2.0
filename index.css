@@ -1,0 +1,48 @@
+body{margin: 0; text-align: center; color: #40514e;}
+
+
+.top-container{background-color: #e4f9f5;
+    display: flex;  justify-content: center; align-items: center; flex-direction: column;
+
+}
+.text-section{ color: #66bfbf;
+   
+
+}
+.text-section h1{ font-family: "Caveat", cursive; margin: 0; font-size: 8rem; margin-top: 100px; }
+ h2{font-size: 2.5rem; text-align: center; color: #66bfbf; font-family: "Montserrat", sans-serif; font-weight: normal;}
+.cloud-pic1{align-self: flex-start; position: relative; top: 500px; left:300px}
+.cloud-pic2{align-self: flex-end ; position: relative; right: 200px; bottom: 300px; }
+.mid-container{display:flex; flex-direction: column; justify-content: center; align-items: center;}
+.profile > img{ margin-top: 10rem; border-radius: 50%; flex-basis: 20px; width: 7rem; display: block; margin-top: 30px;
+}
+.profile{ display: flex; align-items: center; flex-direction: column;}
+.profile > p{color: #40514e; font-size: 1.25rem;}
+.parent{ display: grid; grid-template: 1fr 1fr / 0.5fr 1fr ; gap: 10px; text-align: left; }
+.skills > h1{ margin-bottom: 75px; font-size: 2.5rem;
+    color: #66bfbf; font-family: "Montserrat", sans-serif; font-weight: normal;
+}
+#typing{margin-left: 275px;}
+#chillies img{margin-left: 275px; height: 200px;}
+ h3{color: #11999e; font-family: "Montserrat", sans-serif;
+
+}
+.parent p{ line-height: 2; font-size: 1.5rem;
+
+}
+button{background: #11cdd4;border-radius: 8px;margin-top: 30px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;height: 2rem; width: 10rem; border: 0; background-image: linear-gradient(to bottom, #11cdd4, #11999e);}
+.contact-me p{font-size: 1.25rem; margin-top: 25px;}
+.contact-me h2{margin-top: 75px; margin-bottom: 40px;}
+.bottom-container{background-color: #66bfbf; margin-top: 80px; height: 150px; padding: 50px 0 20px}
+#p{margin-top: 20px;}
+a{color: #11999e;}
+#a{color: #eaf6f6}
+
+
+
+
